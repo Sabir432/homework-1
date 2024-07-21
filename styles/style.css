@@ -1,0 +1,46 @@
+h1 {
+    color: rgb(255, 255, 255);
+    margin: 20px;
+    padding: 90px;
+    background: linear-gradient(to left, rgb(0, 16, 110), rgb(70, 1, 24), rgb(82, 0, 99), black);
+    text-align: center;
+    font-size: 60px;
+    border-radius: 5%;
+}
+
+
+
+body {
+    background: linear-gradient(to left, rgb(54, 0, 16), black);
+}
+
+
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+
+
+h3 {
+    color: rgb(213, 255, 255);
+}
+
+
+img {
+    margin-left: 15px;
+    border: 5px solid rgb(48, 3, 48);
+    border-radius: 10%;
+}
+
+img:not(:last-child) {
+    margin-right: 15px;
+}
+
+
+
+video{
+    border: 5px solid rgb(48, 3, 48);
+    border-radius: 10%;
+}
